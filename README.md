@@ -1,14 +1,11 @@
 # Hello, I'm Troy McAdam-Mubiru
 <a href="https://www.linkedin.com/in/troy-mcadam-mubiru"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a dedicated and enthusiastic student with a strong interest in computing, particularly in the field of cybersecurity. I enjoy exploring how systems work, identifying potential vulnerabilities, and learning how to protect digital environments. Eager to expand my skills and gain practical experience, I am constantly looking for opportunities to apply my knowledge in real-world scenarios while continuing to grow within the ever-evolving world of technology.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a motivated student with a keen interest in cybersecurity, looking to begin my career as a Cybersecurity Analyst. I want to leverage my knowledge of security principles, threat analysis, and problem-solving skills to help protect organizations from cyber threats. I’m committed to learning continuously and contributing effectively to a dynamic security team.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
