@@ -53,5 +53,5 @@ I am a motivated student with a keen interest in cybersecurity, looking to begin
 
 ## Projects
 - <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Cybersecurity-Home-Lab/tree/main">Cybersecurity Home Lab</a>
-- <a href="">Log Analysis with SIEM</a>
+- <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Log-Analysis-with-SIEM/edit/main/README.md">Log Analysis with SIEM</a>
 
