@@ -8,7 +8,6 @@ I am a dedicated and enthusiastic student with a strong interest in computing, p
 I am a motivated student with a keen interest in cybersecurity, looking to begin my career as a Cybersecurity Analyst. I want to leverage my knowledge of security principles, threat analysis, and problem-solving skills to help protect organizations from cyber threats. I’m committed to learning continuously and contributing effectively to a dynamic security team.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
