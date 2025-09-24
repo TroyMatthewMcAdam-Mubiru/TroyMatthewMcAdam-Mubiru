@@ -10,14 +10,14 @@ I am a motivated student with a keen interest in cybersecurity, looking to begin
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Cybersecurity-Home-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|           | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Cybersecurity-Home-Lab/tree/main">Cybersecurity Home Lab</a>|
+|  | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Log-Analysis-with-SIEM">Log Analysis with SIEM</a>|
+|          | <a href=""|
+|       | |
+|                   | |
+|  | |
 
-## Tools
+## al Tools
 
 
 ### Network
