@@ -4,7 +4,7 @@
 I am a BSc Computer Science student with a strong focus on cybersecurity, particularly in areas such as threat analysis, vulnerability assessment, and security operations. This GitHub repository serves as a portfolio of my technical development, showcasing hands-on projects that demonstrate my growing capabilities and commitment to the field. Through a combination of academic study and self-directed learning, I have developed a solid foundation in security concepts and practical tools.
 ## Objective
 
-I am a motivated student with a keen interest in cybersecurity, looking to begin my career as a Cybersecurity Analyst. I want to leverage my knowledge of security principles, threat analysis, and problem-solving skills to help protect organizations from cyber threats. I’m committed to learning continuously and contributing effectively to a dynamic security team.
+I am a motivated student with a keen interest in cybersecurity, looking to begin my career as a Cybersecurity Analyst. I want to leverage my knowledge of security principles, threat analysis, and problem-solving skills to help protect organisations from cyber threats. I’m committed to learning continuously and contributing effectively to a dynamic security team.
 
 ## Skills
 
