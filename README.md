@@ -1,19 +1,7 @@
 # Hello, I'm Troy McAdam-Mubiru
 <a href="https://www.linkedin.com/in/troy-mcadam-mubiru"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub! I'm passionate about securing digital systems and building tools that help defend against real-world threats. With a background in cybersecurity, I focus on:
-
-🕵️‍♂️ Threat Hunting & Malware Analysis
-
-🔍 Vulnerability Research & Exploitation
-
-🧰 Building and contributing to open-source security tools
-
-🏴‍☠️ Offensive Security & Penetration Testing
-
-📚 Sharing knowledge through write-ups, labs, and documentation
-
-Here you'll find a mix of personal projects, security tools, scripts, and research work. I'm always exploring new ways to strengthen security posture and contribute to the infosec community.
+I am a BSc Computer Science student with a strong focus on cybersecurity, particularly in areas such as threat analysis, vulnerability assessment, and security operations. This GitHub repository serves as a portfolio of my technical development, showcasing hands-on projects that demonstrate my growing capabilities and commitment to the field. Through a combination of academic study and self-directed learning, I have developed a solid foundation in security concepts and practical tools.
 ## Objective
 
 I am a motivated student with a keen interest in cybersecurity, looking to begin my career as a Cybersecurity Analyst. I want to leverage my knowledge of security principles, threat analysis, and problem-solving skills to help protect organizations from cyber threats. I’m committed to learning continuously and contributing effectively to a dynamic security team.
