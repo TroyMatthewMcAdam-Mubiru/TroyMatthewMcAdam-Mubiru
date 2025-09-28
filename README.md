@@ -11,11 +11,11 @@ I am a motivated student with a keen interest in cybersecurity, looking to begin
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |   Threat Detection        | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Cybersecurity-Home-Lab/tree/main">Cybersecurity Home Lab</a>|
-|  Log Analysis   | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Log-Analysis-with-SIEM">Log Analysis with SIEM</a>|
-|     Vulnerability Management    | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Vulnerability-Scanning-and-Reporting">Vulnerability Scanning & Reporting</a>|
-|    Incident Response  | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Incident-Response-Simulation">Incident Response Simulation</a>|
-|         Phishing Awareness       | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Phishing-Awareness-Toolkit">Phishing Awareness Toolkit</a>|
-|  Penetration Testing  | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/TryHackMe-Hack-The-Box-Labs">TryHackMe/Hack The Box Lab</a>|
+|  Log Analysis   | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Log-Analysis-with-SIEM/tree/main">Log Analysis with SIEM</a>|
+|     Vulnerability Management    | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Vulnerability-Scanning-and-Reporting/tree/main">Vulnerability Scanning & Reporting</a>|
+|    Incident Response  | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Incident-Response-Simulation/tree/main">Incident Response Simulation</a>|
+|         Phishing Awareness       | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Phishing-Awareness-Toolkit/tree/main">Phishing Awareness Toolkit</a>|
+|  Penetration Testing  | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/TryHackMe-Hack-The-Box-Labs/tree/main">TryHackMe/Hack The Box Lab</a>|
 
 ## al Tools
 
@@ -51,9 +51,9 @@ I am a motivated student with a keen interest in cybersecurity, looking to begin
 
 ## Projects
 - <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Cybersecurity-Home-Lab/tree/main">Cybersecurity Home Lab</a>
-- <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Log-Analysis-with-SIEM">Log Analysis with SIEM</a>
-- <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Vulnerability-Scanning-and-Reporting">Vulnerability Scanning & Reporting</a>
-- <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Incident-Response-Simulation">Incident Response Simulation</a>
-- <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Phishing-Awareness-Toolkit">Phishing Awareness Toolkit</a>
-- <a href="https://github.com/TroyMatthewMcAdam-Mubiru/TryHackMe-Hack-The-Box-Labs">TryHackMe/Hack The Box Labs</a>
+- <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Log-Analysis-with-SIEM/tree/main">Log Analysis with SIEM</a>
+- <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Vulnerability-Scanning-and-Reporting/tree/main">Vulnerability Scanning & Reporting</a>
+- <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Incident-Response-Simulation/tree/main">Incident Response Simulation</a>
+- <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Phishing-Awareness-Toolkit/tree/main">Phishing Awareness Toolkit</a>
+- <a href="https://github.com/TroyMatthewMcAdam-Mubiru/TryHackMe-Hack-The-Box-Labs/tree/main">TryHackMe/Hack The Box Labs</a>
 
