@@ -17,23 +17,23 @@ I am a motivated student with a keen interest in cybersecurity, looking to begin
 |         Phishing Awareness       | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Phishing-Awareness-Toolkit/tree/main">Phishing Awareness Toolkit</a>|
 |  Penetration Testing  | <a href="https://github.com/TroyMatthewMcAdam-Mubiru/TryHackMe-Hack-The-Box-Labs/tree/main">TryHackMe/Hack The Box Lab</a>|
 
-## al Tools
+## Cybersecurity Tools
 
 
-### Network
+### Network Security
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint Security
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -49,7 +49,7 @@ I am a motivated student with a keen interest in cybersecurity, looking to begin
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
+## Cybersecurity Projects
 - <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Cybersecurity-Home-Lab/tree/main">Cybersecurity Home Lab</a>
 - <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Log-Analysis-with-SIEM/tree/main">Log Analysis with SIEM</a>
 - <a href="https://github.com/TroyMatthewMcAdam-Mubiru/Vulnerability-Scanning-and-Reporting/tree/main">Vulnerability Scanning & Reporting</a>
